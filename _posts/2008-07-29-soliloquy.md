@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Soliloquy
 ---
 
 #### Written on 29 Jul 2008
