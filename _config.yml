@@ -6,25 +6,17 @@ relative_permalinks: true
 
 # Setup
 title:               AS Mind
-tagline:             I am Anand Surampudi. I speak my Mind.
+tagline:             'I am Anand Surampudi. I speak my Mind.'
+description:         'My (Git-) Pushed Thoughts.'
 url:                 http://suranand.github.io
-paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+baseurl:             ''
+paginate:            5
 
 # About/contact
 author:
-  name:              Anand Surampudi
+  name:              Anand Surampud
   url:               https://twitter.com/suranands
   email:             suranands@gmail.com
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/suranand
+version:             1.0.0
