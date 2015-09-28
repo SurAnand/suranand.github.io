@@ -30,9 +30,9 @@ Whether my skills accept it or not, I want to identify myself only with science.
 
 I was reading Joe's [*Introduction to regular expressions*](http://vertstudios.com/blog/introduction-to-regular-expressions/) and it reminded me of the traditional *Set Theory* in mathematics. RegEx phrases look like set theory expressions. Some thing like writing
 
-```
-{3x<sup>2</sup>+2a | x in Z & a in R}
-```
+
+> "{3x<sup>2</sup>+2a | x in Z & a in R}"
+
 
 to describe,
 
