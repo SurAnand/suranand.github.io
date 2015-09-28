@@ -16,7 +16,9 @@ The day I started learning programming, I learned my first lesson from my first 
 Computers are really gentle in this case. They are never so harsh and sarcastic in their reactions. They care and take everything I do seriously irrespective of how silly it may be. They give chances to correct myself indefinitely. But they will not be understanding what I want  to say as long as I use language of craving. It understands only when I talk in its language within its vocabulary handling capacity. I instantly saw a great difference in my attitude. My sentences are extremely shortened now. I worry no more about decorating my phrases with classy adjectives. I now know to break long sentences into shorter ones, easy to read.
 
 Logic is all that it takes. It is not easy. But it is essential. I believe now that programming may make me a better thinker. A logical thinker. I am not there yet, I will soon be. At least, now I have my favorite tools that I use at my disposal which I consider a great upgrade of myself.
-<hr></hr>
+
+<hr>
+
 - I use [Atom](http://atom.io/) for a lot of writing material such as this post. Atom and [Light Table](http://lighttable.com/) are currently my favorite editors. [PyCharm](https://www.jetbrains.com/pycharm/) is currently my favorite IDE.
 - I extensively use [markdown](http://daringfireball.net/projects/markdown/) language for all these posts.
 - I am huge fan, follower and user of [IPython NoteBook](http://ipython.org/notebook.html).
