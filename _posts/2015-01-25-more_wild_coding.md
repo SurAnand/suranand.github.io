@@ -14,11 +14,11 @@ Somebody told me,
 
 I can see now why he repeatedly told me this.
 
-Ever since I chose to enter this 'magnus' and magnanimous world of programming and __open source__, I only get to become more speechless, at times go horribly paranoid, at every momentary 'bit' of information I pass by. 
+Ever since I chose to enter this 'magnus' and magnanimous world of programming and __open source__, I only get to become more speechless, at times go horribly paranoid, at every momentary 'bit' of information I pass by.
 
 It looks to me as if this is all just one mankind's attempt from one tiny planet in this whole universe to create one entirely new world.
 
-I have been dwelling my way for - not out of choice though -  a secure and thrilling career in my current field of corporate communications. Perhaps, this is what everyone of us struggles to achieve in terms of their career, "_secure and thrilling_". The only difference is how strategic and disciplined their struggle is. 
+I have been dwelling my way for - not out of choice though -  a secure and thrilling career in my current field of corporate communications. Perhaps, this is what everyone of us struggles to achieve in terms of their career, "_secure and thrilling_". The only difference is how strategic and disciplined their struggle is.
 
 I think when your educational qualifications do not match with your profession, you are surely bluffing yourself in each passing minute. Among the past (education) and the present (profession), you will end up respecting only either of them from the bottom of your heart. Because education (especially along with the learning component ;-) is something that affects you how most addictions affect you. Something like smoking! As long as you do not know how it tastes or feels like, you are fine!
 
@@ -34,7 +34,7 @@ I was reading Joe's [*Introduction to regular expressions*](http://vertstudios.c
 
 I found a lot of other elementary-level obvious connections between programming and math. So, I chose to learn programming while refreshing my math. I am currently spending at least a couple of hours each day trying to read some intro articles on elementary algebra, find roots of polynomials or memorizing essential differentiation formulas **and** work on writing stupid scripts for such problems in **[Jupyter Notebooks](http://jupyter.org/)** (previously IPython Notebooks).
 
-If [Max Tegmark](http://en.wikipedia.org/wiki/Max_Tegmark) says that this universe is entirely [made up of _mathematics_](http://www.livescience.com/42839-the-universe-is-math.html?cmpid=514645_20150311_41853996&adbid=575468717175234560&adbpl=tw&adbpr=15428397), it must be true! Because this thesis has been challenging our imagination from as back in time as when [Pythagoras]() _simply_ said, 
+If [Max Tegmark](http://en.wikipedia.org/wiki/Max_Tegmark) says that this universe is entirely [made up of _mathematics_](http://www.livescience.com/42839-the-universe-is-math.html?cmpid=514645_20150311_41853996&adbid=575468717175234560&adbpl=tw&adbpr=15428397), it must be true! Because this thesis has been challenging our imagination from as back in time as when [Pythagoras]() _simply_ said,
 
 > All things are numbers!
 

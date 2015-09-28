@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               SurAnand
 tagline:             'My (Git-) Pushed Thoughts!'
 description:         'I am Anand Surampudi. I speak my mind.'
-url:                 http://suranand.github.io
-baseurl:             'http://suranand.github.io/'
+url:                 http://github.com/SurAnand/suranand.github.io
+baseurl:             ''
 paginate:            5
 
 # About/contact

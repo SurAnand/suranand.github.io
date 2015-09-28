@@ -7,11 +7,11 @@ title: Being Taught and Being Trained...?
 
 #### Written on 7 May 2013
 
-Regrets are good, aren’t they? They make you if you take them seriously. But this happens in space. But no possibilities whatsoever without the time facet of our puzzling space-time! Time usually demotivates you with its constant winning in the race. I fell into a similar regret recently. I felt I lost my time.
+Regrets are good, aren't they? They make you if you take them seriously. But this happens in space. But no possibilities whatsoever without the time facet of our puzzling space-time! Time usually demotivates you with its constant winning in the race. I fell into a similar regret recently. I felt I lost my time.
 
 I had an electricity problem at my place last weekend, and like most Indians do, I called for an electrician. He spent about 45 minutes in uncovering all the switch boards, plug inlets, ceiling fan connections, on the walls, on the ceiling and allover. The problem was that a light in our kitchen was burnt regularly. And he found that a network of wires was misconnected in one of our bedrooms which caused the problem in kitchen. He explained in his lay terms why and how the problem persisted. I was amazed.
 
-He was not even halfway educated, formally. But he was so perfect in searching, finding and solving the root cause of a problem. I had 2 questions in my mind bee-buzzing and troubling me for the rest of the day. My wife understood what I was going through, but did not react, maybe because she was in a similar situation. Indian housewife culture doesn’t give her the practice of even thinking of these issues. But I shared with her my frustration, she was full of empathy.
+He was not even halfway educated, formally. But he was so perfect in searching, finding and solving the root cause of a problem. I had 2 questions in my mind bee-buzzing and troubling me for the rest of the day. My wife understood what I was going through, but did not react, maybe because she was in a similar situation. Indian housewife culture doesn't give her the practice of even thinking of these issues. But I shared with her my frustration, she was full of empathy.
 
 One, why did I have to call for an electrician, without even attempting to see what went wrong? I had the necessary equipment in my hold. Then why did I choose for an alternative? I am sure it was not laziness, as I just finished fitting the heavy dismantled king size bed in the bedroom. What then is wrong with my attitude?
 
@@ -23,7 +23,9 @@ I remember from my experience of spending quite some time in the US, a family in
 
 And they owned one angelic garden beside the house grown and escorted by the lady lord. They own 4 cars besides a caravan. They have too many wall-hangings, ceiling-hangings, decorative sculptures made of wood all over the space. The point is, almost everything I mentioned above including the whole body of the house, the couple constructed them with their own hands without a third person. Especially the husband can do plumbing, carpentry, electric works, mechanical works, professional works, cooking, writing, racing, and swimming besides high quality pun and sense of humor.
 
-I also remember one of my British friends asked me one day to drill a hole into a podium when we both were trying to set up the stage for a professional event at the workplace. I said, “What?”
+I also remember one of my British friends asked me one day to drill a hole into a podium when we both were trying to set up the stage for a professional event at the workplace. I said,
+
+> "What?"
 
 It was something I never did. But he trained me and I finally did it. So my work experience increased by 3 holes on a wooden podium.
 
