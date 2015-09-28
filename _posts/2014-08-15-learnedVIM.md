@@ -3,7 +3,7 @@ layout: post
 title: Just Learned VIM in 10 min
 ---
 
-![alt text](http://www.ibm.com/developerworks/aix/library/au-speakingunix_vim/04_vim.jpg "My VIM over My ATOM")
+![alt text](http://www.ibm.com/developerworks/aix/library/au-speakingunix_vim/04_vim.jpg "VIM")
 
 > On the offset, I wrote this post in VIM. Thanks to **[Henrik Huttunen](http://personal.inet.fi/koti/egaga/)** for this new skill of mine.
 
