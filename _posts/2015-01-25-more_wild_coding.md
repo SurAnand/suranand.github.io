@@ -28,7 +28,13 @@ All these feelings have nothing to do with the field I am in. It is like sitting
 
 Whether my skills accept it or not, I want to identify myself only with science. Paradoxically, I realize I am not as bad a stranger in this field as I think. Given my educational qualifications in strictly basic sciences, Math, Physics and Chemistry, I am certainly not a stranger here. I just needed to go to the next level. My new zeal in learning programming inspired me to re-establish my old "___complicated___" relationships with ___Mathematics and Physics___.
 
-I was reading Joe's [*Introduction to regular expressions*](http://vertstudios.com/blog/introduction-to-regular-expressions/) and it reminded me of the traditional *Set Theory* in mathematics. RegEx phrases look like set theory expressions. Some thing like writing `{3x<sup>2</sup>+2a | x in Z & a in R}` to describe,
+I was reading Joe's [*Introduction to regular expressions*](http://vertstudios.com/blog/introduction-to-regular-expressions/) and it reminded me of the traditional *Set Theory* in mathematics. RegEx phrases look like set theory expressions. Some thing like writing
+
+```
+{3x<sup>2</sup>+2a | x in Z & a in R}
+```
+
+to describe,
 
 > a set of numbers of the form 3x<sup>2</sup>+2a such that all `x` belong to integers and all `a` belong to real numbers.
 
