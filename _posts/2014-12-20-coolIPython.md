@@ -21,13 +21,13 @@ Before we launch, let me share a couple more points here. Most generally, progra
 
 - your favorite text editor (I personally like nano if I am just playing on the shell).
 - a terminal sort of shell that enables files/directories navigation.
-- and an IDE that interacts with compilers instantly whichever is the language ().
+- and an IDE that interacts with compilers instantly whichever is the language (PyCharm for Python, RStudi for R, etc.).
 
 All these along with a vast number of other utilities such as libraries, add-ons etc. are packaged now, especially for python. Two of the most known among those bundles are [Anaconda Python Distribution](https://store.continuum.io/cshop/anaconda/) and [Enthought Canopy](https://www.enthought.com/products/canopy/).
 
 These come as one tarball when you download and with one install command, they create a whole new workspace (or environment) for you to play with almost anything that is possible with python. But it doesn't matter if you don't have them. You can still have the required stuff manually one by one downloaded and installed from your terminal.
 
-Just install ***SciPy*** from their website [here](scipy.org), it comes along with `scipy`, `numpy`, `matplotlib`, the coolest `IPython` and a huge number of other features.
+Just install ***SciPy*** from their website [here](http://scipy.org/), it comes along with `scipy`, `numpy`, `matplotlib`, the coolest `IPython` and a huge number of other features.
 
 Back to launching ipython for some math, sci-fi stuff like plotting and visualization tasks.
 
