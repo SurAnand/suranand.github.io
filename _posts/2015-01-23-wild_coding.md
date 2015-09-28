@@ -17,8 +17,6 @@ Computers are really gentle in this case. They are never so harsh and sarcastic 
 
 Logic is all that it takes. It is not easy. But it is essential. I believe now that programming may make me a better thinker. A logical thinker. I am not there yet, I will soon be. At least, now I have my favorite tools that I use at my disposal which I consider a great upgrade of myself.
 
-<hr>
-
 - I use [Atom](http://atom.io/) for a lot of writing material such as this post. Atom and [Light Table](http://lighttable.com/) are currently my favorite editors. [PyCharm](https://www.jetbrains.com/pycharm/) is currently my favorite IDE.
 - I extensively use [markdown](http://daringfireball.net/projects/markdown/) language for all these posts.
 - I am huge fan, follower and user of [IPython NoteBook](http://ipython.org/notebook.html).
@@ -28,7 +26,7 @@ Logic is all that it takes. It is not easy. But it is essential. I believe now t
 - I simply love [GitHub](http://github.com/pyas/), [Git Gists](http://gist.github.com) and [NBViewer](http://nbviewer.ipython.org/) for their natural complexity, like in a flower.
 - The less I speak about [matplotlib](http://matplotlib.org/), the better it is. It is meant for giants, wizards, saints and super coders. It's what ISS is for NASA. Not meant for common man. But I love [doing](http://pyas.me/sci-num/intro_matplotlib_21j15.html) it at my amateurish pace, thanks to my background in physics and mathematics.
 - I regularly take pleasure of visiting noble and impeccable voluntary works such as [Roguelynn's](http://newcoder.io) and envy impossible works such as [Jake's](http://jakevdp.github.io/blog/2012/09/05/quantum-python/).
-<hr></hr>
+
 And a lot of other stuff I am not keeping here. I am sure those very few leftouts in this world, who are as weak as I am in this field, will surely find this post very encouraging and informative. At least for me, this is a track record to evaluate myself.
 
 > I am already enjoying coding, without really learning much of it yet.
