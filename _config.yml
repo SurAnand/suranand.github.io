@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               SurAnand
-tagline:             'My (Git-) Pushed Thoughts!'
+tagline:             '||My (Git-) Pushed Thoughts!'
 description:         'I am Anand Surampudi. I speak my mind.'
 url:                 http://github.com/SurAnand/suranand.github.io
 baseurl:             ''
