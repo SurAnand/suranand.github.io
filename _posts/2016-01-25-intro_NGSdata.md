@@ -15,7 +15,7 @@ title: Quick and Dirty Introduction to NGS Data Analysis
 	
 	And this is the first part.
 
-I recently enjoyed sitting through a 3-day training program on basics of *NGS Data Analysis*. The training began with hands-on with essential Linux commands - *grep, sed & awk*.
+I recently enjoyed sitting through a 3-day training program on basics of *NGS Data Analysis*. The training began with hands-on with essential Linux commands - *grep, sed & awk*. Thanks to [Mr. Shantanu Kumar](), the trainer.
 
 The title of the workshop has 3 key words: NGS, Data and Analysis. All of them are cliches in present market while the term NGS is perhaps more pronounced among the biologists community. I thought I should keep a 
 record in a blog post of what I learned there for my own benefit.
