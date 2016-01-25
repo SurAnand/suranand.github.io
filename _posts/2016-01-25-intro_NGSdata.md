@@ -8,13 +8,21 @@ title: Quick and Dirty Introduction to NGS Data Analysis
 ![alt text](https://www.broadinstitute.org/files/blog/images/2010/BTGsequencing.png "Counting ATGCs")
 
 ```
+
 I will try to write this in 3 parts:
+
+
 - Basic Introduction
+
 - Linux Basics
+
 - Data Analysis
 
+
 And this is the first part.
+
 ```
+
 
 I recently enjoyed sitting through a 3-day training program on basics of *NGS Data Analysis*. The training began with hands-on with essential Linux commands - *grep, sed & awk*.
 
