@@ -11,6 +11,7 @@ description:         'I am Anand Surampudi. I speak my mind.'
 url:                 http://github.com/SurAnand/suranand.github.io
 baseurl:             ''
 paginate:            5
+comments:	     TRUE
 
 # About/contact
 author:
