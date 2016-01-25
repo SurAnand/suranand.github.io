@@ -18,19 +18,22 @@ And this is the first part.
 
 I recently enjoyed sitting through a 3-day training program on basics of *NGS Data Analysis*. The training began with hands-on with essential Linux commands - *grep, sed & awk*.
 
-The title of the workshop has 3 key words: NGS, Data and Analysis. All of them are cliches in present market while the term NGS is perhaps more pronounced among the biologists community. I thought I keep a record in a blog post of what I learned there for my own benefit.
+The title of the workshop has 3 key words: NGS, Data and Analysis. All of them are cliches in present market while the term NGS is perhaps more pronounced among the biologists community. I thought I should keep a 
+record in a blog post of what I learned there for my own benefit.
 
 NGS stands for **Next Generation Sequencing**. It is one of the most trending technologies being developed for biology. 
 
-> Genomics fused with the NGS technologies and Bioinformatics is robust field resulting from an intersection of science, technology and mathematics. 
+> Genomics fused with the NGS technologies and Bioinformatics is a robust field resulting from an intersection of science, technology and mathematics. 
 
-More specifically, it is an intersection where biology, mathematics and computer technology meet. The intersection is given many names, such as **Bioinformatics, Computational Genomics**, etc. Genomics is the study of genomes with the help of powerful tools of information technology. NGS forms the basis for such studies on biological side. 
+More specifically, it is an intersection where biology, mathematics and information technology meet. The intersection is given many names, such as **Bioinformatics, Computational Genomics**, etc. Genomics is the 
+study of genomes with the help of powerful tools of information technology. NGS forms the basis for such studies on biological side. 
 
 A genome is nothing but a patterned arrangement of 4 nucleotide bases (Adenine, Thymine, Guanine, Cytosine) represented by alphabets - A, T, G and C. The term 'patterned' can be deceiving. Because it is not a pattern that we humans can easily recognize. The patterns need novel and often complex deciphering algorithms to be analyzed. 
 
 Several biological macromolecules like cells and proteins, whose functions very inevitably depend on these patterns, also have a patterned behavior that can be understood using these bioinformatic tools. The patterns have standards. Such as, a human genome should always consist of the same pattern of ATGCs, except for a few minor changes. Changes that affect color of your skin, thickness of your hair, color of eye, the way you walk, etc.
 
 In layman terms, a human genome contains 3.1 billion alphabets, or nucleotides. However, there can be situations with (at least) 3 types of basic deviation from this fact. 
+
 - Some letters might be missing - DELETION.
 - Some new letters are added - INSERTION.
 - Or, there can be the same number of letters but with modified arrangements, like a C in place of G, etc. - ALLELE.
@@ -74,7 +77,7 @@ For example, <u>a Phred score of 10 represents an accuracy of 90%, with the prob
 
 More about this quality scoring method is [here](http://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf).
 
-### FASTQ File
+#### FASTQ File
 
 A `FASTQ` file is a `FASTA` file along with quality scores for each base sequenced. A `FASTA` file is the data of sequenced bases.
 
@@ -93,9 +96,9 @@ Each `fastq` file has data points represented in the above 4 lines.
 
 |    |    |
 |--------|----------|
-|`@HWI-ST1265` | Unique Instrument Name|
-|`101` | Run ID|
-|`BC3YNHACXX` | FlowCell ID|
+|@HWI-ST1265 | Unique Instrument Name|
+|101 | Run ID|
+|BC3YNHACXX | FlowCell ID|
 |5 | FlowCell lane|
 |1101 | Tile number within FlowCell lane|
 |1161 |'x'=coordinate of the cluster within the tile|
