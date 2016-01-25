@@ -7,13 +7,13 @@ title: Quick and Dirty Introduction to NGS Data Analysis
 
 ![alt text](https://www.broadinstitute.org/files/blog/images/2010/BTGsequencing.png "Counting ATGCs")
 
-> I will try to write this in 3 parts:
-> 
-> - Basic Introduction
-> - Linux Basics
-> - Data Analysis
-
-> And this is the first part.
+	I will try to write this in 3 parts:
+	
+	- Basic Introduction
+	- Linux Basics
+	- Data Analysis
+	
+	And this is the first part.
 
 I recently enjoyed sitting through a 3-day training program on basics of *NGS Data Analysis*. The training began with hands-on with essential Linux commands - *grep, sed & awk*.
 
@@ -82,12 +82,11 @@ A `FASTQ` file is a `FASTA` file along with quality scores for each base sequenc
 
 Below is a typical `fastq` file.
 
-```
-@HWI-ST1265:101:BC3YNHACXX:5:1101:1161:2121 1:N:0:ATCACG
-GGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGG
-+
-C<B>ADD4@688?6?<BBB:B<BBC:B<ABG<G=@@8
-```
+	@HWI-ST1265:101:BC3YNHACXX:5:1101:1161:2121 1:N:0:ATCACG
+	GGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGG
+	+
+	C<B>ADD4@688?6?<BBB:B<BBC:B<ABG<G=@@8
+	
 
 Each `fastq` file has data points represented in the above 4 lines. 
 
