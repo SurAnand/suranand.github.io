@@ -3,6 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
+excerpt_separator:   "<!-- more -->"
 
 # Setup
 title:               SurAnand
@@ -11,7 +12,7 @@ description:         'I am Anand Surampudi. I speak my mind.'
 url:                 http://github.com/SurAnand/suranand.github.io
 baseurl:             ''
 paginate:            5
-comments:	     TRUE
+comments:	     true
 
 # About/contact
 author:

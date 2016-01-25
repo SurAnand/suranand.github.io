@@ -14,7 +14,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
   </div>
   {% endfor %}
 </div>
@@ -34,5 +34,6 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+<script id="dsq-count-scr" src="//suranand.disqus.com/count.js" async></script>
 </div>
 
