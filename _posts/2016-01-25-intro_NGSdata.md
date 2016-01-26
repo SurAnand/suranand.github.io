@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick and Dirty Introduction to NGS Data Analysis
+comments: true
 ---
 
 ## Part-1
