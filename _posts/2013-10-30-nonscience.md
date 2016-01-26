@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Non-Science
+comments: true
 ---
 
 ## Of Misleading Mind.

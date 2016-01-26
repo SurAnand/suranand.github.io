@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Physicists on Finding the Current Status Quo in the EarthCore
+comments: true
 ---
 
 ## A Test to our Imagination

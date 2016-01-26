@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Some things cool about IPython
+comments: true
 ---
 
 ![alt text](http://nbviewer.ipython.org/static/img/example-nb/ipython-thumb.png "IPython")

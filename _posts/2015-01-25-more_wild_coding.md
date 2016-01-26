@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More ... Into the Wild of Coding!
+comments: true
 ---
 
 ### This time, I got a bit closer to the purpose and the passion behind all this workout. The Entry Scene of **Mathematics**.

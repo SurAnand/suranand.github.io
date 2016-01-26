@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quick Note on IPy Notebook
+comments: true
 ---
 
 ![alt text](http://acomdpsstorage.blob.core.windows.net/dpsmedia-prod/azure.microsoft.com/zh-tw/documentation/articles/virtual-machines-python-ipython-notebook/20141201111555/ipy-notebook-008.png "IPython")

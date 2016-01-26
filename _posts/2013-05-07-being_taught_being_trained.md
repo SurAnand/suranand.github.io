@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Being Taught and Being Trained...?
+comments: true
 ---
 
 ## A Significant Remorse

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mind Chaos
+comments: true
 ---
 
 ## I've never been so frustrated.

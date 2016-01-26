@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Just Learned VIM in 10 min
+comments: true
 ---
 
 ![alt text](http://www.ibm.com/developerworks/aix/library/au-speakingunix_vim/04_vim.jpg "VIM")

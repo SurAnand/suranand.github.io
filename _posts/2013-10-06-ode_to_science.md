@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ode to Science
+comments: true
 ---
 
 #### Written on 6 Oct 2013

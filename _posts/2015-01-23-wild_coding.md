@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Into the Wild of Coding
+comments: true
 ---
 
 ![alt text](http://www.dcs.gla.ac.uk/~jhw/spirals/spiral.png "Number Spirals")
