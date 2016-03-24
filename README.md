@@ -1,5 +1,5 @@
 ﻿# ASinode.github.io
 
-### I am Anand Surampudi. I speak my Mind.
+### I am Anand Surampudi. My Information Node where I collect my new learnings.
 
-This is my personal [blog](http://asinode.github.io) that speaks my mind. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+This is my personal [blog](http://asinode.github.io), sort of my Information Node. It's based on [Poole](http://getpoole.com), the Jekyll butler.
