@@ -6,9 +6,9 @@ relative_permalinks: true
 excerpt_separator:   "<!-- more -->"
 
 # Setup
-title:               SurAnand
-tagline:             ':: My (Git-) Pushed Thoughts!'
-description:         'I am Anand Surampudi. I speak my mind.'
+title:               as inode
+tagline:             ':: My Information Node!'
+description:         'I am Anand Surampudi. I treasure my new learnings here.'
 url:                 http://github.com/asinode/asinode.github.io
 baseurl:             ''
 paginate:            5
