@@ -9,7 +9,7 @@ excerpt_separator:   "<!-- more -->"
 title:               SurAnand
 tagline:             ':: My (Git-) Pushed Thoughts!'
 description:         'I am Anand Surampudi. I speak my mind.'
-url:                 http://github.com/SurAnand/asinode.github.io
+url:                 http://github.com/asinode/asinode.github.io
 baseurl:             ''
 paginate:            5
 comments:	     true
