@@ -4,9 +4,11 @@ title: Just One Simple Error - GitHub Page Build Fails
 comments: true
 ---
 
+![alt text](http://timjames.me/img/jekyll/feature.jpg "https://jekyllrb.com/")
+
 ### This is all about a tiny tiny error I made in organizing my github pages repo locally and everything ended up going wrong. Finally, my GitHub pages site, this site, would not get any of my new posts.
 
-This killed almost over 3 hours of my time. I still wanted to keep an update here, so if I ever I make similar mistakes, I could check this post, like making my -banging-my-head process simpler.
+This killed almost over 3 hours of my time. I still wanted to keep an update here, so if ever I make similar mistakes, I could check this post, like making my head-banging process manageable.
 
 ## Here is the story!
 
@@ -52,11 +54,11 @@ I hit the wall. The GitHub won't build my pages. It sent me a very generic email
 
 And I went all over the cosmos of *google* trying to find the god who can help me with this.
 
-First I thought, it was because of my email on GitHub being verified, following the suggestions on GitHub help pages. That didn't help. Then, I thought it was due to my global config settings of my git on my machine and tried to reconfigure all of it. Nope, that wasn't the issue too. And then I remembered I formate my OS about a month ago which might have resulted in Jekyll-build related issues. So I started working around installing `Jekyll` which required `gem`, which again required `ruby`, which further needs `rvm` to be installed on my machine.
+First I thought, it was because of my email on GitHub being verified, following the suggestions on GitHub help pages. That didn't help. Then, I thought it was due to my global config settings of my git on my machine and tried to reconfigure all of it. Nope, that wasn't the issue too. And then I remembered I formatted my OS about a month ago which might have resulted in Jekyll-build related issues. So I started working around installing `Jekyll` which required `gem`, which again required `ruby`, which further needs `rvm` to be installed on my machine.
 
 Honestly, anything that has to do with either of **Java, JavaScript and Ruby**, I just cannot find myself having sufficient patience. It always turned into a nightmare everytime I tried to get these things to work on my machine. I wish somebody like [Digital Ocean](https://cloud.digitalocean.com/) writes a simple and easy-to-follow instructions on how to work on this stuff. 
 
-Anyway, I somehow managed get all this worked out and made my system ready with all these pre-requisites. I still cannot see my GitHub page updated with my new post. I could not undestand what else to do now. And then I tried `jekyll build` and `jekyll serve` inside my repo on my machine. Both of them gave me a common error.
+Anyway, I somehow managed to get all this worked out and made my system ready with all these pre-requisites. I still cannot see my GitHub page updated with my new post. I could not undestand what else to do now. And then I tried `jekyll build` and `jekyll serve` inside my site directory. Both of them gave me a common error.
 
 ```
 Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file.
@@ -77,6 +79,6 @@ That triggered my brain!
 
 Remember, I mentioned about my directory creation inside my site repo, `drafts` and I added the `layout: post` entry in my post? I went back to that file, deleted it and pushed into the remote.
 
-That's it! This is all that went wrong. Even if I minus my efforts in installing `jekyll & ruby`, finding this simple mistake became an impossible task. It finally worked! And here I am, back to my scirbbling!
+That's it! This is all that went wrong. Even if I minus all my efforts in installing `jekyll & ruby`, finding this simple mistake became an impossible task. It finally worked! And here I am, back to my scirbbling!
 
-Hope it helps!
+Hope it helps others, especially, someone like me!
