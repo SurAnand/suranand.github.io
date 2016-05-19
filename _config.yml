@@ -10,7 +10,9 @@ tagline:             ':: My Information Node!'
 description:         'I am Anand Surampudi. I treasure my new learnings here.'
 url:                 http://github.com/asinode/asinode.github.io
 baseurl:             ''
+gems:		     [jekyll-paginate]
 paginate:            5
+paginate_path: 	     "page:num"
 comments:	     true
 
 # About/contact
