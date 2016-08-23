@@ -42,22 +42,22 @@ Now if you just run `records[0]`, it will output the first line in the data in `
 
 ```json
 {u'a': u'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.78 Safari/535.11',
-u'al': u'en-US,en;q=0.8',
-u'c': u'US',
-u'cy': u'Danvers',
-u'g': u'A6qOVH',
-u'gr': u'MA',
-u'h': u'wfLQtf',
-u'hc': 1331822918,
-u'hh': u'1.usa.gov',
-u'l': u'orofrog',
-u'll': [42.576698, -70.954903],
-u'nk': 1,
-u'r':
-u'http://www.facebook.com/l/7AQEFzjSi/1.usa.gov/wfLQtf',
-u't': 1331923247,
-u'tz': u'America/New_York',
-u'u': u'http://www.ncbi.nlm.nih.gov/pubmed/22415991'}
+ u'al': u'en-US,en;q=0.8',
+ u'c': u'US',
+ u'cy': u'Danvers',
+ u'g': u'A6qOVH',
+ u'gr': u'MA',
+ u'h': u'wfLQtf',
+ u'hc': 1331822918,
+ u'hh': u'1.usa.gov',
+ u'l': u'orofrog',
+ u'll': [42.576698, -70.954903],
+ u'nk': 1,
+ u'r':
+ u'http://www.facebook.com/l/7AQEFzjSi/1.usa.gov/wfLQtf',
+ u't': 1331923247,
+ u'tz': u'America/New_York',
+ u'u': u'http://www.ncbi.nlm.nih.gov/pubmed/22415991'}
 ```
 
 And the total number of records (lines in the data file) are 3560.
