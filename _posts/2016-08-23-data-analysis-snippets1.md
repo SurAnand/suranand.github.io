@@ -40,7 +40,7 @@ records = [json.loads(line) for line in open(path)]
 
 Now if you just run `records[0]`, it will output the first line in the data in `dict` format.
 
-```
+```json
 {u'a': u'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.78 Safari/535.11',
 u'al': u'en-US,en;q=0.8',
 u'c': u'US',
