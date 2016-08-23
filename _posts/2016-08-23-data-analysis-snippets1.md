@@ -8,7 +8,11 @@ comments: true
 
 ## This is ambitious!
 
-Well ... as the world knows, Python is one of the coolest languages out there. Python is one of the most recommended languages particularly for data analysis. Mostly because of the kind of massive support given by python's existing libraries for this purpose.
+Well ... as the world knows, Python is one of the coolest languages out there. 
+
+And it is one of the most recommended languages particularly for data analysis. Mostly because of the kind of massive support given by python's existing libraries for this purpose. The power of python standard libraries is what we will see in this snippet.
+
+## Some Background Noise ;-)
 
 Life is all about data right now. So I chose to give myself a tough project. Every now and then, I want to record anything I find interesting in doing data analysis with python.
 
