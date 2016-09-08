@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: Floobits & Flootty for Pair Programming
 comments: true
 ---
