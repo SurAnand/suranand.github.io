@@ -34,6 +34,7 @@ In order to be able to use Floobits, and you are the one who owns the workspace 
 - Now you need [Flootty](https://github.com/Floobits/flootty) which is a collaborative terminal, meaning once you have it installed and working, your partner can see and use your terminal.
   - Run `pip install Flootty`
 - That's pretty much it. Now, you just need to run,
+
 ```sh
 flootty --create --url=https://floobits.com/username/workspace-name
 ```
@@ -46,6 +47,7 @@ Let us say, you are the partner and would like to share the workspace with its o
   - creating and saving `~/.floorc.json` file in your home folder
   - installing `flootty` with `python3` and `pip3`
 - Finally, run this command to join the owner's workspace.
+
 ```sh
 flootty --url=https://floobits.com/username/workspace-name
 ```
@@ -60,5 +62,7 @@ Now there are two ways you can share the terminal and editor.
 <img alt="Editing together in Atom" src="https://camo.githubusercontent.com/41c4615368fc32d0acfb52753631f6e823b46a78/68747470733a2f2f666c6f6f626974732e636f6d2f7374617469632f696d616765732f61746f6d2d656469742e676966" width="640" height="400" data-canonical-src="https://floobits.com/static/images/atom-edit.gif" style="max-width:100%;">
 
 This is very cool and I am sure students should be introduced to tools like this from the very beginning of their learning career.
+
+<hr>
 
 <a name="myfootnote1">1</a>: A Quick Note about the way I use Python: I really like [Anaconda Python Distribution](https://www.continuum.io/) or at least the [Mini Conda](http://conda.pydata.org/miniconda.html) package.  And I don't want to make `python3` as default on my machine. So ... I create an environment with `python3` by running `conda create --name <some-env-name> python=3`. Once you run `source activate <some-env-name>`, and you will find that for as long as this source is active, your default python is `py3` and default pip is `pip3`.
