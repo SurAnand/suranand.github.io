@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Archive
+title: All Posts
 ---
 
-## Blog Posts
+## List of All Posts So Far ...
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
