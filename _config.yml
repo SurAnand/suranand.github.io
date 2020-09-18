@@ -5,10 +5,10 @@ permalink:           pretty
 excerpt_separator:   "<!-- more -->"
 
 # Setup
-title:               as inode
-tagline:             ':: My Information Node!'
-description:         'I am Anand Surampudi. I treasure my new learnings here.'
-url:                 http://github.com/asinode/asinode.github.io
+title:               Anand's Space
+tagline:             ':: My Studio of Thoughts!'
+description:         'I am Anand Surampudi. I treasure my learnings here.'
+url:                 http://github.com/suranands/suranands.github.io
 baseurl:             ''
 gems:		     [jekyll-paginate]
 paginate:            5
@@ -18,8 +18,8 @@ comments:	     true
 # About/contact
 author:
   name:              Anand Surampudi
-  url:               http://in.linkedin.com/in/asinode
-  email:             asinode@zoho.com
+  url:               https://www.linkedin.com/in/surab/
+  email:             abs@outlook.in
 
 # Custom vars
-version:             1.0.0
+version:             2.0.0
