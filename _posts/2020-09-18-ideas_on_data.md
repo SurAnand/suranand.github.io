@@ -2,7 +2,7 @@
 
 ## Data is identity. Data is business. Data is careers. Data is the job. Data is everything. Data is everywhere.
 
-![Data](https://draup.com/talent/whitepapers/us-ai-and-big-data-talent-assessment/)
+![Data](https://s3-us-east-2.amazonaws.com/wp-prelogin/wp-content/uploads/2018/08/16100513/Big-data-azzurro.jpg)
 
 *Image Source: https://draup.com/talent/whitepapers/us-ai-and-big-data-talent-assessment/*
 
