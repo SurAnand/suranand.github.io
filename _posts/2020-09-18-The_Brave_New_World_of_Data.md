@@ -1,4 +1,8 @@
-# The Brave New World of Data
+---
+layout: post
+title: The Brave New World of Data
+comments: true
+---
 
 ## Data is identity. Data is business. Data is careers. Data is the job. Data is everything. Data is everywhere.
 
