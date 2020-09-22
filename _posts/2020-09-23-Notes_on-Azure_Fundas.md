@@ -4,21 +4,17 @@ title: Notes on Azure Fundamentals
 comments: true
 ---
 
-# Notes on Azure Fundamentals
-
-## Today 14 Sep 2020
-
 This long-scrolling post is nothing but the notes I took while learning AZ Fundamentals. Most of it is my own writing, with a few details directly copied from the Azure Documentation. Images are almost always taken from the Azure website, with a few being my screenshots.
 
 Since the whole content is already freely available on Microsoft website, I believe there is no copyright issue in this. If there is, please alert me.
 
 > Because, ***Ignorantia juris non excusat!***, or [something like that](https://en.wikipedia.org/wiki/Ignorantia_juris_non_excusat) ;-)
 
-> Ref: https://aka.ms/azfunpath
+> Ref: [https://aka.ms/azfunpath](https://aka.ms/azfunpath)
 
-### Matt Hester <img src="../public\matt_hester.jpg/" width=200> Garette Bundy <img src="../public\garette_bundy.jpg/" width=200>
+### Matt Hester <img src="../public/matt_hester.jpg/" width=200> Garette Bundy <img src="../public/garette_bundy.jpg/" width=200>
 
-<img src="../public\1.jpg">
+<img src="../public/1.jpg">
 
 |*******Passing score = 700 and more*******|
 
@@ -26,11 +22,13 @@ Since the whole content is already freely available on Microsoft website, I beli
 
 ---
 
-# Notes from the [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-1
+##### Notes from the [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-1
 
-## Tour of Azure Services
+---
 
-#### Azure Services into Broad Categories
+# Tour of Azure Services
+
+## Azure Services into Broad Categories
 
 1. Compute Services
   - VMs, Containers, Serverless Computing including Microservices  
@@ -53,7 +51,7 @@ Check this Image below to see Azure Services on a high level.
 
 <img src="https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/media/3-azure-services.png#lightbox">
 
-#### Most Commonly Used Service Categories
+## Most Commonly Used Service Categories
 
 - Compute
 - Networking
@@ -71,27 +69,27 @@ Check this Image below to see Azure Services on a high level.
 
 > Azure virtual machine scale sets let you create and manage a group of load balanced VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule. Scale sets provide high availability to your applications, and allow you to centrally manage, configure, and update a large number of VMs. With virtual machine scale sets, you can build large-scale services for areas such as compute, big data, and container workloads.
 
-#### Azure Compute Services
+## Azure Compute Services
 
 * VMs are also called as **Compute Nodes**
-* <u>*Azure VMs*</u> - provides Windows and Linux VMs
-* <u>*Azure VM Scale Sets*</u> - create and manage a group of load balanced VMs, set to automatically increase or decrease the no. of VMs in response to demand or schedule
-* <u>*Azure Kubernetes Service*</u> - manage containerized VMs
-* <u>*Azure Service Fabric*</u> - manage microservice based application setups; runs anywhere on other clouds, on Linux or on-prem
-* <u>*Azure Batch*</u> - run parallel and HPC batch jobs scheduled on multiple compute nodes
-* <u>*Azure Container Instances*</u> - run containerized applications without provisioning servers or VMs
-* <u>*Azure Functions*</u> - This needs a special mention. So I wrote about it below.
+* <u>Azure VMs</u> - provides Windows and Linux VMs
+* <u>Azure VM Scale Sets</u> - create and manage a group of load balanced VMs, set to automatically increase or decrease the no. of VMs in response to demand or schedule
+* <u>Azure Kubernetes Service</u> - manage containerized VMs
+* <u>Azure Service Fabric</u> - manage microservice based application setups; runs anywhere on other clouds, on Linux or on-prem
+* <u>Azure Batch</u> - run parallel and HPC batch jobs scheduled on multiple compute nodes
+* <u>Azure Container Instances</u> - run containerized applications without provisioning servers or VMs
+* <u>Azure Functions</u> - This needs a special mention. So I wrote about it below.
 
 <hr>
 
-#### Serverless Computing - The coming-together of Azure Functions, Logic Apps and Event Grid
+## Serverless Computing - The coming-together of Azure Functions, Logic Apps and Event Grid
 <p>&nbsp;</p>
 <img src="https://sec.ch9.ms/ch9/c4ed/16f3632b-8cef-4e0e-ac4b-d08e5c2ec4ed/Serverless_960.jpg?v=c422b9a7e2f5fdac62d92c69dd98da0a0d9c72fd6b0e06be8cd1b4ec147b052f">
 <p>&nbsp;</p>
 **This part needs a special mention because this is just one feature out of the many coming out the concept of <u>Serverless Computing or Serverless Application</u>**.
 
 - Serverless computing is essentially a framework within which the client just worries about writing code so their application work seamlessly, without having to spend their time on the number of VMs they need, the amount of storage they need, the kind of networking they need, the level of security they need, etc. All these things will be automatically scaled up and down based on the app's requirement and other parameters.
-- I just watched a simple 20 minutes [YouTube video](https://www.youtube.com/watch?v=RddQOxDcdFg) on this subject and the use case shown here is really "**stupid simple**".
+- I just watched a simple 20 minutes [YouTube video](https://www.youtube.com/watch?v=RddQOxDcdFg) on this subject and the use case shown here is really **stupid simple**.
 - Serverless Computing on Azure works with 3 most critical services provided by the platform.
   - Azure Functions
   - Azure Logic Apps
@@ -102,7 +100,7 @@ Check this Image below to see Azure Services on a high level.
 - I may sound exaggerating, but I am honestly impressed when I saw the demo in the video.
 - The only issue is that the staff who create and maintain such workflows should be really efficient, and would need a positive encouraging support from the bosses.
 
-#### Azure Networking Services
+## Azure Networking Services
 
 > **<u>NETWORKING</u> - Linking compute resources and providing access to applications is the key function of Azure networking.** (*Copied from the Azure Fundamentals documentation web page*)
 
@@ -114,11 +112,11 @@ So, not much of notes can be written on this subject, because it usually takes m
 
 > As summary, Azure can do pretty anything and everything you can think of under the title "Networking", mostly automatically.
 
-<img src="../public\Azure Networking.jpg">
+<img src="../public/Azure Networking.jpg">
 
 ---
 
-#### Azure Storage
+## Azure Storage
 
 Azure provides 4 types of Storage Services.
 1. <u>Blob Storage</u> - for very large data, such as videos
@@ -133,7 +131,7 @@ All storage services come with the following features:
 - Maintenance by Microsoft
 - Most of these storage services can also be configured to be accessible from mobile phones, made for all flavors - iOS, Windows and Android, along with Push notifications.
 
-#### And More ....
+## And More ....
 
 Azure Services include a lot of other services that, similar to networking, cannot be explained in a single post like this.
 
@@ -143,7 +141,7 @@ Azure Web Services include *all things web applications* - notification hubs, AP
 
 Azure IoT, Big data, AI and DevOps include a vast number of services that enable and enhance daily activities in the modern technology-driven world, right from letting a vacuum cleaner determine whether its job for the day is complete or not depending on the dust it can sense on the floor, up to visual analytics of a poacher in Amazon forest who attempted to poach a rhino and got caught, first in the sensor-based camera in the forest and then by the police before they could run more than 10 km in the forest.
 
-### Take Away, truly! Microsoft Learn Sandbox
+## Take Away, truly! Microsoft Learn Sandbox
 
 Sandbox is nothing but Azure resources made available for the learn to practice and get some hands-on feel on the Azure Services. This is free of cost and time-bound resource. It is really helpful to get the hang of how managing your cloud on Azure portal feels like.
 
@@ -155,7 +153,7 @@ Another very crucial critical skill one learn using the Sandbox is to practice t
 
 # Notes from the [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-2
 
-## Tour of Azure Services
+## Azure Architecture and Service Guarantees
 
 ### Azure **Regions** and Data Centers
 
@@ -175,7 +173,7 @@ Azure divides *Geographies* into *Regions* for various purposes, such as US West
 - Another reason is customer-centric. Clients who wish to address the **data residency or sovereignty** requirements can also benefit from this *geographies* concept.
 - One more critical purpose is to ensure a whole region failure does not impact those business who focus on business continuity and high availability more than anything else, and thereby become fault-tolerant. For example, international banks.
 
-##### Geographies are divided into Americas, Europe, Asia Pacific, Middle East and Africa
+> **Geographies are divided into Americas, Europe, Asia Pacific, Middle East and Africa**
 
 Finally, **Availability Zones**. These are separate data centers within a particular region. Sometimes, one zone can have multiple data centers.
 
@@ -183,7 +181,7 @@ Finally, **Availability Zones**. These are separate data centers within a partic
 - <u>Zonal services</u> – you pin the resource to a specific zone (for example, virtual machines, managed disks, IP addresses)
 - <u>Zone-redundant services</u> – platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
 
-#### So,
+## So,
    - One or more data centers in an Availability Zone ...
    - One or more Availability Zones in a Region ...
    - One or more Regions or Region Pairs in a Geography !!!
