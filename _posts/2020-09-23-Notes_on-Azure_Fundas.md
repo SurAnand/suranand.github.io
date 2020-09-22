@@ -12,7 +12,6 @@ Since the whole content is already freely available on Microsoft website, I beli
 
 > Ref: [https://aka.ms/azfunpath](https://aka.ms/azfunpath)
 
-### Matt Hester <img src="../public/matt_hester.jpg/" width=200> Garette Bundy <img src="../public/garette_bundy.jpg/" width=200>
 
 <img src="../public/1.jpg">
 
@@ -22,7 +21,7 @@ Since the whole content is already freely available on Microsoft website, I beli
 
 ---
 
-##### Notes from the [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-1
+## [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-1
 
 ---
 
@@ -143,15 +142,15 @@ Azure IoT, Big data, AI and DevOps include a vast number of services that enable
 
 ## Take Away, truly! Microsoft Learn Sandbox
 
-Sandbox is nothing but Azure resources made available for the learn to practice and get some hands-on feel on the Azure Services. This is free of cost and time-bound resource. It is really helpful to get the hang of how managing your cloud on Azure portal feels like.
+Sandbox is nothing but Azure resources made available for the learner to practice and get some hands-on feel on the Azure Services. This is free of cost and time-bound resource. It is really helpful to get the hang of how managing your cloud on Azure portal feels like.
 
 Also, you would be able to clearly understand the workflow. Once it is clear in our mind what we want to create, depending on that object, we can see what the workflow is. For example, before you do anything, you will have create a **Resource Group**. Anything and everything you create begins with this step. And then the individual workflows will begin. You will go to marketplace and choose a ready-made service, or will create something from the scratch, either by creating a new VM, or a new DB, etc.
 
 Another very crucial critical skill one learn using the Sandbox is to practice the [*Azure CLI*](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/6-exercise-cloud-shell). This is surely an added feather in the hat, once learned sufficiently. You almost never have to log into the Azure portal and everything can be managed just from the comfort of your terminal window. Thanks to Microsoft's open collaboration with Linux, you can manage your Azure services both from Windows and Linux OS command line tools.
 
 ---
-
-# Notes from the [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-2
+## [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/) | Part-2
+---
 
 ## Azure Architecture and Service Guarantees
 
